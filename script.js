@@ -85,3 +85,4 @@ document.getElementById("createBtn").addEventListener("click", function() {
   document.body.appendChild(newMessage);
   document.getElementById("statusMsg").textContent = "New message created!";
 });
+
